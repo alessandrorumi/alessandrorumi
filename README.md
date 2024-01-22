@@ -5,7 +5,7 @@ Junior Full-Stack Developer
 ---------------------------
 
 *   🌍  I'm based in Brescia (BS) Italy
-*   🧠  I'm currently learning Vite (Vue)
+*   🧠  I'm currently learning PHP
  
 #
 

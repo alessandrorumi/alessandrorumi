@@ -5,7 +5,7 @@ Junior Full-Stack Developer
 ---------------------------
 
 *   🌍  I'm based in Brescia (BS) Italy
-*   🧠  I'm currently learning PHP
+*   🧠  I'm currently learning Laravel
  
 #
 
